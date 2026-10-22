@@ -1,0 +1,20 @@
+<!doctype html><meta charset="utf-8"><title>Checar Mermaid</title>
+<body><pre id="out">rodando...</pre>
+<script type="module">
+import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.esm.min.mjs';
+mermaid.initialize({startOnLoad:false});
+const arquivos = (new URLSearchParams(location.search).get('f')||'').split(',');
+const out=[]; let total=0, erros=0;
+for (const f of arquivos) {
+  const md = await (await fetch('/'+f)).text();
+  const blocos=[...md.matchAll(/```mermaid\n([\s\S]*?)```/g)].map(m=>m[1]);
+  for (const [i,b] of blocos.entries()) {
+    total++;
+    try { await mermaid.parse(b); }
+    catch(e){ erros++; out.push(`ERRO ${f} bloco ${i+1}: ${String(e.message||e).split('\n').slice(0,3).join(' | ')}\n${b.split('\n').slice(0,3).join('\n')}`); }
+  }
+  out.push(`${f}: ${blocos.length} blocos`);
+}
+out.unshift(`TOTAL ${total} blocos, ${erros} com erro`);
+document.getElementById('out').textContent=out.join('\n');
+</script>

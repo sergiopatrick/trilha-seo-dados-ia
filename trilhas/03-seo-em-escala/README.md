@@ -1,5 +1,12 @@
 # 03 · SEO em escala
 
+<!-- infografico:trilha-03 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-03-escuro.svg">
+  <img src="../../imagens/trilha-03.svg" alt="Visão geral da trilha 03" width="100%">
+</picture>
+<!-- /infografico -->
+
 Quando o site tem dezenas de milhares de páginas, o trabalho muda de natureza. Você deixa de otimizar página por página e passa a desenhar templates, regras e bases de dados. O ganho é enorme e o risco também, porque um erro de template se repete em todas as páginas.
 
 **Pré-requisitos.** Trilhas 01 e 02. Python básico (trilha 00).
@@ -67,6 +74,7 @@ A interface do Search Console devolve no máximo mil linhas. A API devolve muito
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

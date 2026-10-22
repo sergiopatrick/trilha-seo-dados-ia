@@ -73,7 +73,7 @@ Os exercícios usam Python, a API de um modelo comercial (com limite de gasto co
 
 **Prática**
 1. Usando a API de um modelo com tool use, crie um agente com 2 ferramentas. Uma busca a série diária de pageviews de um artigo na API da Wikimedia (com User-Agent descritivo e pausa) e a outra calcula a variação entre dois períodos. Peça ao agente para dizer qual de três artigos mais cresceu no último mês. Registre cada chamada de ferramenta.
-2. Escreva um servidor MCP com o SDK oficial em Python (`mcp`, com `FastMCP`) que expõe uma consulta somente leitura ao DuckDB do projeto da trilha 06. Teste no MCP Inspector (`npx @modelcontextprotocol/inspector`).
+2. Escreva um servidor MCP com o SDK oficial em Python (`mcp` versão 2, com `MCPServer`, como na aula 5) que expõe uma consulta somente leitura ao DuckDB do projeto da trilha 06. Teste no MCP Inspector (`npx @modelcontextprotocol/inspector`).
 3. Ligue o servidor a um cliente MCP (Claude Desktop, Claude Code ou outro) e faça uma conversa que use a ferramenta. Tente pedir um `DELETE` e mostre que o servidor recusa.
 
 **Desafio**

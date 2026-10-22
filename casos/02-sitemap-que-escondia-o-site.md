@@ -2,6 +2,13 @@
 
 **Setor.** Saúde. **Trilhas.** 02 SEO técnico.
 
+<!-- infografico:caso-02 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-02-escuro.svg">
+  <img src="../imagens/caso-02.svg" alt="Gráfico do caso 02" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 Era preciso dizer, com segurança, quantas páginas um site tinha e quais respondiam. O número seria usado num documento técnico que podia ser contestado.
 

@@ -2,6 +2,13 @@
 
 **Setor.** Educação. **Trilhas.** 02 SEO técnico.
 
+<!-- infografico:caso-08 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-08-escuro.svg">
+  <img src="../imagens/caso-08.svg" alt="Gráfico do caso 08" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 O relatório de Core Web Vitals do Search Console mostrava centenas de URLs ruins ou precisando de melhoria, no celular e no desktop.
 

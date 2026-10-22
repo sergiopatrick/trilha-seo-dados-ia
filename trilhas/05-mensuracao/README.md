@@ -1,5 +1,12 @@
 # 05 · Mensuração
 
+<!-- infografico:trilha-05 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-05-escuro.svg">
+  <img src="../../imagens/trilha-05.svg" alt="Visão geral da trilha 05" width="100%">
+</picture>
+<!-- /infografico -->
+
 Sem medição confiável, SEO vira opinião. Esta trilha ensina a coletar, conferir e ler os números que sustentam decisões. GA4, Tag Manager, UTM, Search Console, painéis e experimentos. E, principalmente, a não se enganar com o próprio dado.
 
 **Pré-requisitos.** Trilha 00, módulos 1, 3 e 6.
@@ -97,6 +104,7 @@ A LGPD e o Consent Mode mudaram o que se mede e como. Banner de cookies mal feit
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

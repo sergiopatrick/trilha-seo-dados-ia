@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 653" width="1000" height="653" role="img" aria-label="Mapa de estudo. Fundamentos destrava SEO estratégico e Mensuração. Daí seguem SEO técnico e Engenharia de dados, depois SEO em escala, GEO e IA aplicada, e por fim os projetos. Ofício do consultor acompanha tudo." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Mapa de estudo. Fundamentos destrava SEO estratégico e Mensuração. Daí seguem SEO técnico e Engenharia de dados, depois SEO em escala, GEO e IA aplicada, e por fim os projetos. Ofício do consultor acompanha tudo.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b6a66"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#fcfcfb"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">MAPA DE ESTUDO</text>
+<text x="44.0" y="100.0" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="start">Nove trilhas, uma ordem que faz sentido</text>
+<text x="44.0" y="140.0" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">As setas indicam o que destrava o quê. Trilhas na mesma coluna podem ser feitas em</text>
+<text x="44.0" y="165.7" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">paralelo.</text>
+<path d="M 204.0 355.3 L 216.0 355.3 L 216.0 275.3 L 226.0 275.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 204.0 355.3 L 216.0 355.3 L 216.0 435.3 L 226.0 435.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 388.0 275.3 L 400.0 275.3 L 400.0 275.3 L 410.0 275.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 388.0 435.3 L 400.0 435.3 L 400.0 435.3 L 410.0 435.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 572.0 275.3 L 584.0 275.3 L 584.0 245.3 L 594.0 245.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 572.0 275.3 L 584.0 275.3 L 584.0 345.3 L 594.0 345.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 572.0 435.3 L 584.0 435.3 L 584.0 445.3 L 594.0 445.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 676.0 413.3 L 676.0 379.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="44.0" y="323.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#8a8984" stroke-width="1"/>
+<rect x="56.0" y="338.3" width="40.0" height="34.0" rx="6" fill="#52514e"/>
+<text x="76.0" y="362.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">00</text>
+<text x="106.0" y="350.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">Fundamentos</text>
+<text x="106.0" y="372.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">da web</text>
+<rect x="228.0" y="243.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#2a78d6" stroke-width="1"/>
+<rect x="240.0" y="258.3" width="40.0" height="34.0" rx="6" fill="#1c5cab"/>
+<text x="260.0" y="282.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">01</text>
+<text x="290.0" y="270.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">SEO</text>
+<text x="290.0" y="292.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">estratégico</text>
+<rect x="228.0" y="403.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#1baf7a" stroke-width="1"/>
+<rect x="240.0" y="418.3" width="40.0" height="34.0" rx="6" fill="#0b6e4c"/>
+<text x="260.0" y="442.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">05</text>
+<text x="290.0" y="441.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">Mensuração</text>
+<rect x="412.0" y="243.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#2a78d6" stroke-width="1"/>
+<rect x="424.0" y="258.3" width="40.0" height="34.0" rx="6" fill="#1c5cab"/>
+<text x="444.0" y="282.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">02</text>
+<text x="474.0" y="270.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">SEO</text>
+<text x="474.0" y="292.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">técnico</text>
+<rect x="412.0" y="403.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#1baf7a" stroke-width="1"/>
+<rect x="424.0" y="418.3" width="40.0" height="34.0" rx="6" fill="#0b6e4c"/>
+<text x="444.0" y="442.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">06</text>
+<text x="474.0" y="430.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">Engenharia</text>
+<text x="474.0" y="452.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">de dados</text>
+<rect x="596.0" y="213.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#2a78d6" stroke-width="1"/>
+<rect x="608.0" y="228.3" width="40.0" height="34.0" rx="6" fill="#1c5cab"/>
+<text x="628.0" y="252.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">03</text>
+<text x="658.0" y="240.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">SEO em</text>
+<text x="658.0" y="262.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">escala</text>
+<rect x="596.0" y="313.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#2a78d6" stroke-width="1"/>
+<rect x="608.0" y="328.3" width="40.0" height="34.0" rx="6" fill="#1c5cab"/>
+<text x="628.0" y="352.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">04</text>
+<text x="658.0" y="329.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">GEO e</text>
+<text x="658.0" y="351.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">busca</text>
+<text x="658.0" y="373.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">generativa</text>
+<rect x="596.0" y="413.3" width="160.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#6250d6" stroke-width="1"/>
+<rect x="608.0" y="428.3" width="40.0" height="34.0" rx="6" fill="#4a3aa7"/>
+<text x="628.0" y="452.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">07</text>
+<text x="658.0" y="440.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">IA</text>
+<text x="658.0" y="462.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">aplicada</text>
+<rect x="784.0" y="233.3" width="172.0" height="244.0" rx="10" fill="#f3f2ef" stroke="#6b6a66" stroke-width="1"/>
+<text x="800.0" y="267.3" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="start">Projetos</text>
+<text x="800.0" y="289.3" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="start">integradores</text>
+<text x="800.0" y="333.3" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">1. Warehouse de SEO</text>
+<text x="800.0" y="367.3" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">2. Monitor de IA</text>
+<text x="800.0" y="401.3" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">3. Auditoria</text>
+<text x="800.0" y="435.3" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">4. Conteúdo com IA</text>
+<path d="M 756.0 245.3 L 782.0 245.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 756.0 345.3 L 782.0 345.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<path d="M 756.0 445.3 L 782.0 445.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="44.0" y="513.3" width="912.0" height="56.0" rx="10" fill="#f3f2ef" stroke="#eb6834" stroke-width="1"/>
+<rect x="56.0" y="524.3" width="40.0" height="34.0" rx="6" fill="#a8431b"/>
+<text x="76.0" y="548.3" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">08</text>
+<text x="108.0" y="548.3" font-size="17" font-weight="600" fill="#0b0b0b" text-anchor="start">Ofício do consultor acompanha todas as trilhas, um módulo por mês a partir do mês 3</text>
+<rect x="44.0" y="599.3" width="18.0" height="18.0" rx="4" fill="#8a8984"/>
+<text x="70.0" y="613.3" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Base</text>
+<rect x="140.0" y="599.3" width="18.0" height="18.0" rx="4" fill="#2a78d6"/>
+<text x="166.0" y="613.3" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Busca</text>
+<rect x="245.0" y="599.3" width="18.0" height="18.0" rx="4" fill="#1baf7a"/>
+<text x="271.0" y="613.3" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Medição e dados</text>
+<rect x="440.0" y="599.3" width="18.0" height="18.0" rx="4" fill="#6250d6"/>
+<text x="466.0" y="613.3" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">IA</text>
+<rect x="518.0" y="599.3" width="18.0" height="18.0" rx="4" fill="#eb6834"/>
+<text x="544.0" y="613.3" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Ofício</text>
+</svg>

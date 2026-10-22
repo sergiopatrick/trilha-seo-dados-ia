@@ -2,6 +2,13 @@
 
 **Setor.** Varejo online. **Trilhas.** 02 SEO técnico, 05 Mensuração.
 
+<!-- infografico:caso-06 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-06-escuro.svg">
+  <img src="../imagens/caso-06.svg" alt="Gráfico do caso 06" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 A pergunta era quanto de receita a melhoria de Core Web Vitals poderia trazer, para justificar o investimento de desenvolvimento.
 

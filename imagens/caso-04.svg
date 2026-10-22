@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 706" width="1000" height="706" role="img" aria-label="Caso 4. Nove de 32 itens errados. Quatro padrões de sinal indireto e o teste direto que corrige cada um." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Caso 4. Nove de 32 itens errados. Quatro padrões de sinal indireto e o teste direto que corrige cada um.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b6a66"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#fcfcfb"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">CASO 4 · OFÍCIO DO CONSULTOR</text>
+<text x="44.0" y="102.0" font-size="32" font-weight="700" fill="#0b0b0b" text-anchor="start">9 de 32 itens da auditoria estavam errados,</text>
+<text x="44.0" y="142.0" font-size="32" font-weight="700" fill="#0b0b0b" text-anchor="start">pela mesma causa</text>
+<text x="44.0" y="186.0" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">Em todos, o estado do site foi inferido a partir de um sinal indireto. Os quatro padrões</text>
+<text x="44.0" y="211.7" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">e o teste que teria evitado cada um.</text>
+<text x="44.0" y="265.3" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">SINAL INDIRETO</text>
+<text x="535.0" y="265.3" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">TESTE DIRETO</text>
+<rect x="44.0" y="283.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="70.0" cy="315.3" r="9" fill="#d03b3b"/>
+<text x="92.0" y="322.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Contar dados estruturados com grep</text>
+<path d="M 475.0 315.3 L 525.0 315.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="535.0" y="283.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="561.0" cy="315.3" r="9" fill="#0ca30c"/>
+<text x="583.0" y="322.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Extrair os blocos com parser</text>
+<rect x="44.0" y="361.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="70.0" cy="393.3" r="9" fill="#d03b3b"/>
+<text x="92.0" y="400.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Ausência no relatório da ferramenta</text>
+<path d="M 475.0 393.3 L 525.0 393.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="535.0" y="361.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="561.0" cy="393.3" r="9" fill="#0ca30c"/>
+<text x="583.0" y="400.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Pedir a URL e ver o status</text>
+<rect x="44.0" y="439.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="70.0" cy="471.3" r="9" fill="#d03b3b"/>
+<text x="92.0" y="478.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Estimativa escrita como fato</text>
+<path d="M 475.0 471.3 L 525.0 471.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="535.0" y="439.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="561.0" cy="471.3" r="9" fill="#0ca30c"/>
+<text x="583.0" y="478.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Contar ou marcar como estimativa</text>
+<rect x="44.0" y="517.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="70.0" cy="549.3" r="9" fill="#d03b3b"/>
+<text x="92.0" y="556.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Número que o próprio site declara</text>
+<path d="M 475.0 549.3 L 525.0 549.3" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="535.0" y="517.3" width="421.0" height="64.0" rx="10" fill="#f3f2ef"/>
+<circle cx="561.0" cy="549.3" r="9" fill="#0ca30c"/>
+<text x="583.0" y="556.3" font-size="19" font-weight="600" fill="#0b0b0b" text-anchor="start">Contar no HTML ou no sitemap</text>
+<text x="44.0" y="605.3" font-size="18" font-weight="400" fill="#0b0b0b" text-anchor="start">Depois da revisão, cada achado passou a ter a origem da evidência e um status. Confirmado,</text>
+<text x="44.0" y="629.6" font-size="18" font-weight="400" fill="#0b0b0b" text-anchor="start">parcial ou verificação recomendada.</text>
+<text x="44.0" y="669.9" font-size="15" font-weight="400" fill="#6b6a66" text-anchor="start">Leia em casos/04-nove-afirmacoes-erradas.md</text>
+</svg>

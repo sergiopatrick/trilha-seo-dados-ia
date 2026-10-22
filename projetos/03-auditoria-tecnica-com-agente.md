@@ -5,6 +5,13 @@ Um agente que audita um site como um bom consultor faria. Roda o crawl, levanta 
 **Trilhas.** 02 SEO técnico, 07 IA aplicada, 08 Ofício do consultor.
 **Carga estimada.** 15 h.
 
+<!-- infografico:projeto-03 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/projeto-03-escuro.svg">
+  <img src="../imagens/projeto-03.svg" alt="Arquitetura do projeto 03" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Dados de entrada
 
 - Um site público pequeno ou médio (até 5 mil URLs), de preferência seu ou com autorização.

@@ -5,20 +5,18 @@ Um pequeno data warehouse que junta Search Console, GA4 e crawl do seu site, atu
 **Trilhas.** 02 SEO técnico, 05 Mensuração, 06 Engenharia de dados.
 **Carga estimada.** 15 a 20 h.
 
+<!-- infografico:projeto-01 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/projeto-01-escuro.svg">
+  <img src="../imagens/projeto-01.svg" alt="Arquitetura do projeto 01" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Dados de entrada
 
 - Search Console de um site seu (blog, portfólio ou projeto pessoal). Se não tiver, crie um site estático e espere algumas semanas de dados.
 - GA4 do mesmo site, ou o dataset público do GA4 no BigQuery (`bigquery-public-data.ga4_obfuscated_sample_ecommerce`) para praticar a modelagem.
 - Crawl do site, feito pelo seu próprio script da trilha 00.
-
-## Arquitetura
-
-```
-API do Search Console ─┐
-API do GA4 ou BigQuery ─┼─> ingestão em Python ─> Parquet (bronze) ─> dbt + DuckDB (prata e ouro) ─> painel
-Crawl próprio ─────────┘                         particionado por data       testes e documentação
-                                                  orquestrado por cron ou Kestra, com alerta
-```
 
 ## Passos
 

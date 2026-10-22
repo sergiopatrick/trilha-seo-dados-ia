@@ -13,7 +13,7 @@ Toda coleta desta trilha segue a mesma regra. Pausa de 2 a 5 segundos entre requ
 
 **Prática**
 1. Escolha uma base pública (API de localidades do IBGE, dados.gov.br ou Wikidata) e modele as entidades, os atributos e as relações numa tabela. Diga qual é a chave canônica de cada entidade.
-2. Escreva a regra de slug (acentos, caixa, espaços, hífens) e decida o que acontece quando dois itens colidem. Teste a regra nos 5.570 municípios de `https://servicodados.ibge.gov.br/api/v1/localidades/municipios` e conte as colisões.
+2. Escreva a regra de slug (acentos, caixa, espaços, hífens) e decida o que acontece quando dois itens colidem. Teste a regra em todos os municípios (cerca de 5.570) de `https://servicodados.ibge.gov.br/api/v1/localidades/municipios` e conte as colisões.
 3. Gere 20 páginas de teste a partir de um CSV com Python e Jinja2, num template que separa blocos fixos e blocos variáveis.
 
 **Desafio**

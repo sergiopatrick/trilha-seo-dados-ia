@@ -2,6 +2,13 @@
 
 **Setor.** Educação. **Trilhas.** 05 Mensuração, 06 Engenharia de dados.
 
+<!-- infografico:caso-07 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-07-escuro.svg">
+  <img src="../imagens/caso-07.svg" alt="Gráfico do caso 07" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 Diagnóstico de atribuição para entender quanto o conteúdo orgânico contribuía para matrículas.
 

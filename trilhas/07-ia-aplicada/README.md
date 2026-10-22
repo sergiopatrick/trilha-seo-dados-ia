@@ -1,5 +1,12 @@
 # 07 · IA aplicada
 
+<!-- infografico:trilha-07 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-07-escuro.svg">
+  <img src="../../imagens/trilha-07.svg" alt="Visão geral da trilha 07" width="100%">
+</picture>
+<!-- /infografico -->
+
 Esta trilha é sobre usar modelos de linguagem para resolver problemas reais, com engenharia. Como o modelo funciona, como dar o contexto certo, como ligar a dados e ferramentas, como medir se está funcionando e quanto custa. É também a base técnica do GEO, porque buscadores com IA são sistemas de RAG.
 
 **Pré-requisitos.** Trilha 00 completa. Trilha 06, módulos 1 a 4, ajuda nos projetos.
@@ -118,6 +125,7 @@ Em produção, o que derruba projeto de IA é custo inesperado e segurança. Pro
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

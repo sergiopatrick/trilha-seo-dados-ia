@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 768" width="1000" height="768" role="img" aria-label="Caso 7. Conversão sobe de 0,2 para 2,6 por cento na unidade A e de 0,4 para 2,0 por cento na unidade B, de nenhuma página para mais de 50." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Caso 7. Conversão sobe de 0,2 para 2,6 por cento na unidade A e de 0,4 para 2,0 por cento na unidade B, de nenhuma página para mais de 50.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b6a66"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#fcfcfb"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">CASO 7 · MENSURAÇÃO E DADOS</text>
+<text x="44.0" y="102.0" font-size="32" font-weight="700" fill="#0b0b0b" text-anchor="start">Quanto mais páginas lidas, maior a conversão em</text>
+<text x="44.0" y="142.0" font-size="32" font-weight="700" fill="#0b0b0b" text-anchor="start">matrícula</text>
+<text x="44.0" y="186.0" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">Taxa de conversão de quem não leu nenhuma página contra quem leu mais de 50, em duas</text>
+<text x="44.0" y="211.7" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">unidades de negócio.</text>
+<line x1="264.0" y1="591.3" x2="736.0" y2="591.3" stroke="#e4e2dd" stroke-width="1"/>
+<line x1="264.0" y1="491.3" x2="736.0" y2="491.3" stroke="#e4e2dd" stroke-width="1"/>
+<line x1="264.0" y1="391.3" x2="736.0" y2="391.3" stroke="#e4e2dd" stroke-width="1"/>
+<line x1="264.0" y1="291.3" x2="736.0" y2="291.3" stroke="#e4e2dd" stroke-width="1"/>
+<line x1="304" y1="571.3" x2="696" y2="331.3" stroke="#2a78d6" stroke-width="3"/>
+<circle cx="304.0" cy="571.3" r="8" fill="#2a78d6"/>
+<circle cx="696.0" cy="331.3" r="8" fill="#2a78d6"/>
+<text x="714.0" y="337.3" font-size="18" font-weight="600" fill="#0b0b0b" text-anchor="start">Unidade A · 2,6%</text>
+<text x="286.0" y="587.3" font-size="18" font-weight="600" fill="#0b0b0b" text-anchor="end">Unidade A · 0,2%</text>
+<line x1="304" y1="551.3" x2="696" y2="391.3" stroke="#eb6834" stroke-width="3"/>
+<circle cx="304.0" cy="551.3" r="8" fill="#eb6834"/>
+<circle cx="696.0" cy="391.3" r="8" fill="#eb6834"/>
+<text x="714.0" y="397.3" font-size="18" font-weight="600" fill="#0b0b0b" text-anchor="start">Unidade B · 2,0%</text>
+<text x="286.0" y="549.3" font-size="18" font-weight="600" fill="#0b0b0b" text-anchor="end">Unidade B · 0,4%</text>
+<text x="304.0" y="627.3" font-size="18" font-weight="400" fill="#52514e" text-anchor="middle">Nenhuma página</text>
+<text x="696.0" y="627.3" font-size="18" font-weight="400" fill="#52514e" text-anchor="middle">Mais de 50 páginas</text>
+<text x="44.0" y="667.3" font-size="18" font-weight="400" fill="#0b0b0b" text-anchor="start">Mais da metade da receita aparecia como offline no CRM, e quase todos esses contatos tinham</text>
+<text x="44.0" y="691.6" font-size="18" font-weight="400" fill="#0b0b0b" text-anchor="start">navegação no site.</text>
+<text x="44.0" y="731.9" font-size="15" font-weight="400" fill="#6b6a66" text-anchor="start">Números arredondados de um caso real anonimizado. Leia em casos/07-metade-da-receita-sem-origem.md</text>
+</svg>

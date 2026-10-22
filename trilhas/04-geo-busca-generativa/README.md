@@ -1,5 +1,12 @@
 # 04 · GEO e busca generativa
 
+<!-- infografico:trilha-04 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-04-escuro.svg">
+  <img src="../../imagens/trilha-04.svg" alt="Visão geral da trilha 04" width="100%">
+</picture>
+<!-- /infografico -->
+
 GEO (Generative Engine Optimization) é o trabalho de ser encontrado, entendido e citado por sistemas que respondem com texto gerado. AI Overviews e AI Mode no Google, ChatGPT, Perplexity, Gemini, Copilot e Claude. A base é a mesma do SEO. O que muda é como a resposta é montada e como medir.
 
 **Pré-requisitos.** Trilhas 01 e 02. Trilha 07, módulos 3 e 4 (embeddings e RAG), ajudam muito.
@@ -27,7 +34,7 @@ Um buscador generativo funciona como um RAG gigante. A pergunta vira várias bus
 
 O Google usa o mesmo índice e os mesmos sistemas de qualidade da busca tradicional, com uma camada de geração por cima. Não existe marcação especial para entrar. Existe o básico bem feito.
 
-**Conceitos-chave.** Quando o AI Overview aparece. AI Mode como experiência separada. Controles `nosnippet`, `data-nosnippet` e `max-snippet`. Google-Extended e o que ele controla (e o que não controla). Impacto no CTR.
+**Conceitos-chave.** Quando o AI Overview aparece. AI Mode como experiência separada. A configuração de recursos de IA generativa no Search Console, em que o site precisa estar incluído para ser elegível. Controles `nosnippet`, `data-nosnippet` e `max-snippet`. Google-Extended e o que ele controla (e o que não controla). Impacto no CTR.
 
 **Na prática.** O Search Console passou a mostrar impressões em IA generativa num relatório próprio, em beta, só com impressões, sem busca e sem clique, e com série começando em maio de 2026. Numa loja, a maior parte dessas impressões estava na home, que ranqueia quase só por marca. Isso sugere AI Overview na busca de marca, mas é inferência, porque o relatório não mostra a busca. Diga isso no relatório.
 
@@ -92,6 +99,7 @@ O termo GEO vem de um artigo de 2023 que testou nove táticas em buscadores gene
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

@@ -1,5 +1,12 @@
 # 08 · Ofício do consultor
 
+<!-- infografico:trilha-08 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-08-escuro.svg">
+  <img src="../../imagens/trilha-08.svg" alt="Visão geral da trilha 08" width="100%">
+</picture>
+<!-- /infografico -->
+
 Saber a técnica é metade do trabalho. A outra metade é investigar com método, priorizar, convencer quem decide e fazer o time de desenvolvimento implementar. Esta trilha acompanha todas as outras, um módulo por mês.
 
 **Pré-requisitos.** Nenhum. Rende mais a partir da trilha 02.
@@ -85,6 +92,7 @@ Consultoria é vender confiança. Escopo claro, entregável concreto, preço que
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

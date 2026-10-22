@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 322" width="1000" height="322" role="img" aria-label="Cinco passos por módulo. Roteiro, vídeos, aula, leituras e exercícios." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Cinco passos por módulo. Roteiro, vídeos, aula, leituras e exercícios.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b6a66"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#fcfcfb"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">COMO ESTUDAR CADA MÓDULO</text>
+<text x="44.0" y="100.0" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="start">Cinco passos, sempre na mesma ordem</text>
+<rect x="44.0" y="162.0" width="164.8" height="120.0" rx="12" fill="#f3f2ef"/>
+<circle cx="78.0" cy="198.0" r="18" fill="#1c5cab"/>
+<text x="78.0" y="205.0" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="64.0" y="246.0" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="start">Roteiro</text>
+<text x="64.0" y="268.0" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">README da trilha</text>
+<path d="M 211.8 222.0 L 227.8 222.0" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="230.8" y="162.0" width="164.8" height="120.0" rx="12" fill="#f3f2ef"/>
+<circle cx="264.8" cy="198.0" r="18" fill="#1c5cab"/>
+<text x="264.8" y="205.0" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="250.8" y="246.0" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="start">Vídeos</text>
+<text x="250.8" y="268.0" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">videos.md</text>
+<path d="M 398.6 222.0 L 414.6 222.0" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="417.6" y="162.0" width="164.8" height="120.0" rx="12" fill="#f3f2ef"/>
+<circle cx="451.6" cy="198.0" r="18" fill="#1c5cab"/>
+<text x="451.6" y="205.0" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="437.6" y="246.0" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="start">Aula</text>
+<text x="437.6" y="268.0" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">aulas.md</text>
+<path d="M 585.4 222.0 L 601.4 222.0" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="604.4" y="162.0" width="164.8" height="120.0" rx="12" fill="#f3f2ef"/>
+<circle cx="638.4" cy="198.0" r="18" fill="#1c5cab"/>
+<text x="638.4" y="205.0" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="624.4" y="246.0" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="start">Leituras</text>
+<text x="624.4" y="268.0" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">leituras.md</text>
+<path d="M 772.2 222.0 L 788.2 222.0" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<rect x="791.2" y="162.0" width="164.8" height="120.0" rx="12" fill="#f3f2ef"/>
+<circle cx="825.2" cy="198.0" r="18" fill="#1c5cab"/>
+<text x="825.2" y="205.0" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="811.2" y="246.0" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="start">Exercícios</text>
+<text x="811.2" y="268.0" font-size="15" font-weight="400" fill="#52514e" text-anchor="start">exercicios.md</text>
+</svg>

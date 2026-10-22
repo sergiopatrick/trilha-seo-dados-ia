@@ -1,0 +1,14 @@
+<!doctype html><meta charset="utf-8"><title>Ver Mermaid</title>
+<body style="font-family:sans-serif;background:#fff;margin:8px"><div id="out"></div>
+<script type="module">
+import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.esm.min.mjs';
+mermaid.initialize({startOnLoad:false, theme: new URLSearchParams(location.search).get('t')||'default'});
+const f=new URLSearchParams(location.search).get('f');
+const md=await (await fetch('/'+f)).text();
+const blocos=[...md.matchAll(/```mermaid\n([\s\S]*?)```/g)].map(m=>m[1]);
+const out=document.getElementById('out');
+for (const [i,b] of blocos.entries()){
+  const {svg}=await mermaid.render('d'+i,b);
+  out.insertAdjacentHTML('beforeend',`<div style="display:inline-block;vertical-align:top;width:440px;border:1px solid #ccc;margin:4px;padding:4px"><b>${i+1}</b>${svg}</div>`);
+}
+</script>

@@ -1,5 +1,12 @@
 # 00 · Fundamentos da web
 
+<!-- infografico:trilha-00 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-00-escuro.svg">
+  <img src="../../imagens/trilha-00.svg" alt="Visão geral da trilha 00" width="100%">
+</picture>
+<!-- /infografico -->
+
 A base de tudo que vem depois. SEO técnico é, no fundo, entender o que acontece entre um robô pedir uma URL e o servidor responder. Engenharia de dados é mover e transformar arquivos e tabelas com código. Sem HTTP, HTML, terminal, Git, Python e SQL, as outras trilhas viram decoreba.
 
 **Pré-requisitos.** Nenhum.
@@ -84,6 +91,7 @@ SQL é a língua franca dos dados. GA4 no BigQuery, Search Console exportado, CR
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

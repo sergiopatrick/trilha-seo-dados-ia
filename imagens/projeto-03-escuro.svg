@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 594" width="1000" height="594" role="img" aria-label="Arquitetura do projeto 03" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Arquitetura do projeto 03</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a3a29a"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#1a1a19"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.5">PROJETO 3 · TRILHAS 02, 07 E 08</text>
+<text x="44.0" y="100.0" font-size="30" font-weight="700" fill="#f0efec" text-anchor="start">Auditoria técnica com agente</text>
+<text x="44.0" y="166.0" font-size="14" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.2">FERRAMENTAS</text>
+<rect x="44.0" y="184.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#3987e5" stroke-width="1"/>
+<text x="143.0" y="222.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">buscar_url</text>
+<rect x="44.0" y="262.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#3987e5" stroke-width="1"/>
+<text x="143.0" y="300.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">extrair_html</text>
+<rect x="44.0" y="340.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#3987e5" stroke-width="1"/>
+<text x="143.0" y="378.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">renderizar</text>
+<rect x="44.0" y="418.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#3987e5" stroke-width="1"/>
+<text x="143.0" y="456.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">pagespeed</text>
+<path d="M 246.0 333.0 L 278.0 333.0" fill="none" stroke="#a3a29a" stroke-width="2" marker-end="url(#seta)"/>
+<text x="282.0" y="166.0" font-size="14" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.2">AGENTE</text>
+<rect x="282.0" y="223.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#9085e9" stroke-width="1"/>
+<text x="381.0" y="261.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">Crawl e templates</text>
+<rect x="282.0" y="301.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#9085e9" stroke-width="1"/>
+<text x="381.0" y="339.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">Hipóteses</text>
+<rect x="282.0" y="379.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#9085e9" stroke-width="1"/>
+<text x="381.0" y="407.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">Teste de cada</text>
+<text x="381.0" y="427.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">hipótese</text>
+<path d="M 484.0 333.0 L 516.0 333.0" fill="none" stroke="#a3a29a" stroke-width="2" marker-end="url(#seta)"/>
+<text x="520.0" y="166.0" font-size="14" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.2">EVIDÊNCIA</text>
+<rect x="520.0" y="262.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#d95926" stroke-width="1"/>
+<text x="619.0" y="300.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">Origem e status</text>
+<rect x="520.0" y="340.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#d95926" stroke-width="1"/>
+<text x="619.0" y="378.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">Solução proposta</text>
+<path d="M 722.0 333.0 L 754.0 333.0" fill="none" stroke="#a3a29a" stroke-width="2" marker-end="url(#seta)"/>
+<text x="758.0" y="166.0" font-size="14" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.2">ENTREGA</text>
+<rect x="758.0" y="262.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#d95926" stroke-width="1"/>
+<text x="857.0" y="290.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">Resumo de uma</text>
+<text x="857.0" y="310.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">página</text>
+<rect x="758.0" y="340.0" width="198.0" height="64.0" rx="10" fill="#242423" stroke="#d95926" stroke-width="1"/>
+<text x="857.0" y="378.0" font-size="16" font-weight="600" fill="#f0efec" text-anchor="middle">Anexo técnico</text>
+<text x="44.0" y="518.0" font-size="17" font-weight="400" fill="#c3c2b7" text-anchor="start">Permissão só de leitura. Instrução escrita dentro de página visitada é dado, nunca comando. Você</text>
+<text x="44.0" y="541.0" font-size="17" font-weight="400" fill="#c3c2b7" text-anchor="start">confere uma amostra à mão e mede a precisão.</text>
+</svg>

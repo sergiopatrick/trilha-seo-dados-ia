@@ -2,6 +2,13 @@
 
 **Setor.** Educação médica. **Trilhas.** 02 SEO técnico, 04 GEO.
 
+<!-- infografico:caso-03 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-03-escuro.svg">
+  <img src="../imagens/caso-03.svg" alt="Gráfico do caso 03" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 Diagnóstico de GEO de um portal grande. A primeira pergunta era se os robôs de IA conseguiam acessar o site.
 

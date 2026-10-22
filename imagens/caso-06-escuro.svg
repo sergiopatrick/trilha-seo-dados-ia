@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 636" width="1000" height="636" role="img" aria-label="Caso 6. Correlação de menos 0,85 com intervalo de 95 por cento de menos 0,98 a menos 0,13, com seis meses. No placebo, o mês da piora foi só o 4º pior de 12." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Caso 6. Correlação de menos 0,85 com intervalo de 95 por cento de menos 0,98 a menos 0,13, com seis meses. No placebo, o mês da piora foi só o 4º pior de 12.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a3a29a"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#1a1a19"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.5">CASO 6 · SEO TÉCNICO E MENSURAÇÃO</text>
+<text x="44.0" y="102.0" font-size="32" font-weight="700" fill="#f0efec" text-anchor="start">A correlação parecia forte. Com seis meses de</text>
+<text x="44.0" y="142.0" font-size="32" font-weight="700" fill="#f0efec" text-anchor="start">dado, ela cabia em quase qualquer valor</text>
+<text x="44.0" y="186.0" font-size="19" font-weight="400" fill="#c3c2b7" text-anchor="start">Correlação entre LCP no celular e receita mensal, com intervalo de confiança de 95%.</text>
+<line x1="84.0" y1="305.6" x2="916.0" y2="305.6" stroke="#33332f" stroke-width="2"/>
+<line x1="84.0" y1="299.6" x2="84.0" y2="311.6" stroke="#a3a29a" stroke-width="1"/>
+<text x="84.0" y="337.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="middle">−1,00</text>
+<line x1="292.0" y1="299.6" x2="292.0" y2="311.6" stroke="#a3a29a" stroke-width="1"/>
+<text x="292.0" y="337.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="middle">−0,75</text>
+<line x1="500.0" y1="299.6" x2="500.0" y2="311.6" stroke="#a3a29a" stroke-width="1"/>
+<text x="500.0" y="337.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="middle">−0,50</text>
+<line x1="708.0" y1="299.6" x2="708.0" y2="311.6" stroke="#a3a29a" stroke-width="1"/>
+<text x="708.0" y="337.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="middle">−0,25</text>
+<line x1="916.0" y1="299.6" x2="916.0" y2="311.6" stroke="#a3a29a" stroke-width="1"/>
+<text x="916.0" y="337.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="middle">0,00</text>
+<rect x="100.6" y="291.6" width="707.2" height="28.0" rx="6" fill="#3987e5"/>
+<circle cx="208.8" cy="305.6" r="12" fill="#f0efec"/>
+<text x="208.8" y="277.6" font-size="20" font-weight="700" fill="#f0efec" text-anchor="middle">r = −0,85</text>
+<text x="100.6" y="367.6" font-size="18" font-weight="600" fill="#f0efec" text-anchor="middle">−0,98</text>
+<text x="807.8" y="367.6" font-size="18" font-weight="600" fill="#f0efec" text-anchor="middle">−0,13</text>
+<text x="458.4" y="367.6" font-size="18" font-weight="400" fill="#c3c2b7" text-anchor="middle">intervalo de 95%, n = 6</text>
+<text x="44.0" y="415.6" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Teste de placebo · a mesma queda calculada em cada um dos 12 cortes possíveis</text>
+<text x="44.0" y="445.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Do pior para o melhor resultado</text>
+<circle cx="82.0" cy="481.6" r="16" fill="#8a8984"/>
+<text x="82.0" y="487.6" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">1º</text>
+<circle cx="158.0" cy="481.6" r="16" fill="#8a8984"/>
+<text x="158.0" y="487.6" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">2º</text>
+<circle cx="234.0" cy="481.6" r="16" fill="#8a8984"/>
+<text x="234.0" y="487.6" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">3º</text>
+<circle cx="310.0" cy="481.6" r="16" fill="#e66767"/>
+<text x="310.0" y="487.6" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">4º</text>
+<circle cx="386.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="386.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">5º</text>
+<circle cx="462.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="462.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">6º</text>
+<circle cx="538.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="538.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">7º</text>
+<circle cx="614.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="614.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">8º</text>
+<circle cx="690.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="690.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">9º</text>
+<circle cx="766.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="766.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">10º</text>
+<circle cx="842.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="842.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">11º</text>
+<circle cx="918.0" cy="481.6" r="16" fill="#33332f"/>
+<text x="918.0" y="487.6" font-size="13" font-weight="700" fill="#c3c2b7" text-anchor="middle">12º</text>
+<text x="158.0" y="529.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="middle">3 piores</text>
+<text x="158.0" y="551.6" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="middle">sem evento técnico</text>
+<text x="310.0" y="529.6" font-size="16" font-weight="600" fill="#f0efec" text-anchor="start">mês da piora</text>
+<text x="310.0" y="551.6" font-size="16" font-weight="600" fill="#f0efec" text-anchor="start">técnica, só o 4º</text>
+<text x="44.0" y="599.6" font-size="15" font-weight="400" fill="#a3a29a" text-anchor="start">Números de um caso real anonimizado. Leia em casos/06-correlacao-que-nao-servia.md</text>
+</svg>

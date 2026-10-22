@@ -5,6 +5,13 @@ Um sistema que pergunta toda semana as mesmas coisas a buscadores com IA, regist
 **Trilhas.** 04 GEO e busca generativa, 06 Engenharia de dados, 07 IA aplicada.
 **Carga estimada.** 15 h.
 
+<!-- infografico:projeto-02 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/projeto-02-escuro.svg">
+  <img src="../imagens/projeto-02.svg" alt="Arquitetura do projeto 02" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Dados de entrada
 
 - Um conjunto de 30 a 50 prompts fixos de um tema que você conhece (por exemplo, "melhor curso gratuito de SQL", "o que é INP").

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 752" width="1000" height="752" role="img" aria-label="Caso 1. Exemplo de decomposição. Cliques caem de 10 mil para 8.500. Efeito volume soma 200 e efeito CTR tira 1.700." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Caso 1. Exemplo de decomposição. Cliques caem de 10 mil para 8.500. Efeito volume soma 200 e efeito CTR tira 1.700.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b6a66"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#fcfcfb"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">CASO 1 · SEO ESTRATÉGICO E MENSURAÇÃO</text>
+<text x="44.0" y="102.0" font-size="32" font-weight="700" fill="#0b0b0b" text-anchor="start">A queda de cliques se explica quase toda pelo</text>
+<text x="44.0" y="142.0" font-size="32" font-weight="700" fill="#0b0b0b" text-anchor="start">CTR</text>
+<text x="44.0" y="186.0" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">Decomposição da variação de cliques em efeito volume (mais ou menos buscas) e efeito CTR</text>
+<text x="44.0" y="211.7" font-size="19" font-weight="400" fill="#52514e" text-anchor="start">(mais ou menos cliques por busca).</text>
+<line x1="44.0" y1="581.3" x2="956.0" y2="581.3" stroke="#e4e2dd" stroke-width="1"/>
+<rect x="44.0" y="295.6" width="150.0" height="285.7" rx="4" fill="#8a8984"/>
+<text x="119.0" y="283.6" font-size="22" font-weight="700" fill="#0b0b0b" text-anchor="middle">10.000</text>
+<text x="119.0" y="611.3" font-size="18" font-weight="400" fill="#52514e" text-anchor="middle">Cliques antes</text>
+<rect x="298.0" y="289.9" width="150.0" height="5.7" rx="4" fill="#1baf7a"/>
+<text x="373.0" y="277.9" font-size="22" font-weight="700" fill="#0b0b0b" text-anchor="middle">+200</text>
+<text x="373.0" y="611.3" font-size="18" font-weight="400" fill="#52514e" text-anchor="middle">Efeito volume</text>
+<rect x="552.0" y="289.9" width="150.0" height="48.6" rx="4" fill="#d03b3b"/>
+<text x="627.0" y="277.9" font-size="22" font-weight="700" fill="#0b0b0b" text-anchor="middle">−1.700</text>
+<text x="627.0" y="611.3" font-size="18" font-weight="400" fill="#52514e" text-anchor="middle">Efeito CTR</text>
+<rect x="806.0" y="338.4" width="150.0" height="242.9" rx="4" fill="#8a8984"/>
+<text x="881.0" y="326.4" font-size="22" font-weight="700" fill="#0b0b0b" text-anchor="middle">8.500</text>
+<text x="881.0" y="611.3" font-size="18" font-weight="400" fill="#52514e" text-anchor="middle">Cliques agora</text>
+<text x="44.0" y="651.3" font-size="18" font-weight="400" fill="#0b0b0b" text-anchor="start">Posição média e impressões ficaram estáveis. O que mudou foi a página de resultados, que</text>
+<text x="44.0" y="675.6" font-size="18" font-weight="400" fill="#0b0b0b" text-anchor="start">passou a interceptar o clique.</text>
+<text x="44.0" y="715.9" font-size="15" font-weight="400" fill="#6b6a66" text-anchor="start">Exemplo ilustrativo com números redondos. O caso real está em casos/01-queda-de-leads-que-era-ctr.md</text>
+</svg>

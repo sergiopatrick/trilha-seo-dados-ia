@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 672" width="1000" height="672" role="img" aria-label="Cronograma de 12 meses no ritmo regular de 8 horas por semana." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Cronograma de 12 meses no ritmo regular de 8 horas por semana.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a3a29a"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#1a1a19"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.5">RITMO REGULAR · 8 HORAS POR SEMANA</text>
+<text x="44.0" y="100.0" font-size="30" font-weight="700" fill="#f0efec" text-anchor="start">Um ano do primeiro HTTP ao projeto de portfólio</text>
+<text x="312.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">1</text>
+<text x="368.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">2</text>
+<text x="424.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">3</text>
+<text x="480.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">4</text>
+<text x="536.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">5</text>
+<text x="592.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">6</text>
+<text x="648.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">7</text>
+<text x="704.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">8</text>
+<text x="760.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">9</text>
+<text x="816.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">10</text>
+<text x="872.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">11</text>
+<text x="928.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="middle">12</text>
+<text x="44.0" y="166.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="start">Mês</text>
+<text x="44.0" y="207.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">00 · Fundamentos da web</text>
+<rect x="285.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="285.0" y="188.0" width="54.0" height="28.0" rx="4" fill="#8a8984"/>
+<text x="44.0" y="247.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">01 · SEO estratégico</text>
+<rect x="285.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="228.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="228.0" width="110.0" height="28.0" rx="4" fill="#3987e5"/>
+<text x="44.0" y="287.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">05 · Mensuração</text>
+<rect x="285.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="268.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="268.0" width="110.0" height="28.0" rx="4" fill="#199e70"/>
+<text x="44.0" y="327.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">02 · SEO técnico</text>
+<rect x="285.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="308.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="308.0" width="110.0" height="28.0" rx="4" fill="#3987e5"/>
+<text x="44.0" y="367.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">03 · SEO em escala</text>
+<rect x="285.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="348.0" width="54.0" height="28.0" rx="4" fill="#3987e5"/>
+<text x="44.0" y="407.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">06 · Engenharia de dados</text>
+<rect x="285.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="388.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="388.0" width="110.0" height="28.0" rx="4" fill="#199e70"/>
+<text x="44.0" y="447.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">07 · IA aplicada</text>
+<rect x="285.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="428.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="428.0" width="110.0" height="28.0" rx="4" fill="#9085e9"/>
+<text x="44.0" y="487.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">04 · GEO e busca generativa</text>
+<rect x="285.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="468.0" width="54.0" height="28.0" rx="4" fill="#3987e5"/>
+<text x="44.0" y="527.0" font-size="17" font-weight="600" fill="#f0efec" text-anchor="start">Projetos integradores</text>
+<rect x="285.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="508.0" width="54.0" height="28.0" rx="4" fill="#a3a29a"/>
+<text x="44.0" y="567.0" font-size="17" font-weight="400" fill="#f0efec" text-anchor="start">08 · Ofício do consultor</text>
+<rect x="285.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="341.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="453.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="509.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="565.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="621.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="677.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="733.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="789.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="845.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="901.0" y="548.0" width="54.0" height="28.0" rx="4" fill="#242423"/>
+<rect x="397.0" y="548.0" width="558.0" height="28.0" rx="4" fill="#d95926"/>
+<text x="44.0" y="602.0" font-size="17" font-weight="400" fill="#c3c2b7" text-anchor="start">Ritmo leve, 5 h por semana, leva de 16 a 18 meses. Intensivo, 15 h por semana, leva cerca de 6</text>
+<text x="44.0" y="625.0" font-size="17" font-weight="400" fill="#c3c2b7" text-anchor="start">meses.</text>
+</svg>

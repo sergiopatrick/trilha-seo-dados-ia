@@ -2,6 +2,13 @@
 
 **Setor.** Saúde. **Trilhas.** 01 SEO estratégico, 05 Mensuração.
 
+<!-- infografico:caso-01 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-01-escuro.svg">
+  <img src="../imagens/caso-01.svg" alt="Gráfico do caso 01" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 Um painel semanal acompanhava os leads vindos da busca orgânica. Numa semana, os leads caíram e a gestora perguntou o motivo.
 

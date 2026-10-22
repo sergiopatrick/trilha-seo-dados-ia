@@ -1,5 +1,12 @@
 # 06 · Engenharia de dados
 
+<!-- infografico:trilha-06 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-06-escuro.svg">
+  <img src="../../imagens/trilha-06.svg" alt="Visão geral da trilha 06" width="100%">
+</picture>
+<!-- /infografico -->
+
 Engenharia de dados é construir o caminho que leva o dado da fonte até a decisão, de forma repetível, testada e barata. Para quem vem de SEO e marketing, é o que transforma exportação manual de planilha em pipeline que roda sozinho todo dia.
 
 **Pré-requisitos.** Trilha 00 completa, em especial Python e SQL. Trilha 05 ajuda a ter fontes reais para praticar.
@@ -115,6 +122,7 @@ Painel é o produto final do pipeline. Pense nele como produto. Quem usa, que pe
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

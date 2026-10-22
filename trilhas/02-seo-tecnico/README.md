@@ -1,5 +1,12 @@
 # 02 · SEO técnico
 
+<!-- infografico:trilha-02 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-02-escuro.svg">
+  <img src="../../imagens/trilha-02.svg" alt="Visão geral da trilha 02" width="100%">
+</picture>
+<!-- /infografico -->
+
 SEO técnico é garantir que buscadores e robôs de IA consigam encontrar, baixar, renderizar, entender e indexar as páginas certas, rápido. É a trilha mais longa porque é onde mora a maior parte dos problemas que derrubam tráfego de uma vez.
 
 **Pré-requisitos.** Trilha 00 completa e trilha 01, módulos 1 e 3.
@@ -132,6 +139,7 @@ A maior parte dos sites roda num CMS, e cada um tem suas armadilhas. Saber onde 
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

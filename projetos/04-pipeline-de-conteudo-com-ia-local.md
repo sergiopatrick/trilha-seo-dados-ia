@@ -5,6 +5,13 @@ Um pipeline que vai da pauta ao conteúdo publicado usando dados, RAG e modelos 
 **Trilhas.** 03 SEO em escala, 06 Engenharia de dados, 07 IA aplicada.
 **Carga estimada.** 15 a 20 h.
 
+<!-- infografico:projeto-04 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/projeto-04-escuro.svg">
+  <img src="../imagens/projeto-04.svg" alt="Arquitetura do projeto 04" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Inspiração
 
 O projeto vem de um gerador local de vídeos documentais. Nele, o modelo pesquisa e escreve o roteiro, mas scripts fixos fazem o trabalho pesado (voz sintética, legenda, mixagem e montagem), a voz gerada é transcrita com Whisper e comparada com o roteiro, e toda imagem precisa de licença livre registrada. A mesma divisão vale para texto. O modelo decide e redige, os scripts garantem as regras.

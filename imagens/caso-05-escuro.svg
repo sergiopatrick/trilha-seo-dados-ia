@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 597" width="1000" height="597" role="img" aria-label="Caso 5. Comparar pelo dia do mês mostrou alta de 162 por cento. Alinhado pelo dia da semana, a variação foi de menos 2 por cento." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Caso 5. Comparar pelo dia do mês mostrou alta de 162 por cento. Alinhado pelo dia da semana, a variação foi de menos 2 por cento.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a3a29a"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#1a1a19"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.5">CASO 5 · MENSURAÇÃO</text>
+<text x="44.0" y="102.0" font-size="32" font-weight="700" fill="#f0efec" text-anchor="start">A mesma terça-feira, comparada com o dia errado</text>
+<text x="44.0" y="142.0" font-size="32" font-weight="700" fill="#f0efec" text-anchor="start">e com o dia certo</text>
+<text x="44.0" y="186.0" font-size="19" font-weight="400" fill="#c3c2b7" text-anchor="start">Comparar pelo dia do mês pôs uma terça contra um domingo. Alinhado pelo dia da semana, a</text>
+<text x="44.0" y="211.7" font-size="19" font-weight="400" fill="#c3c2b7" text-anchor="start">alta virou estabilidade.</text>
+<text x="44.0" y="267.3" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Comparação pelo dia do mês</text>
+<text x="956.0" y="267.3" font-size="30" font-weight="700" fill="#f0efec" text-anchor="end">+162%</text>
+<text x="44.0" y="312.3" font-size="18" font-weight="400" fill="#c3c2b7" text-anchor="start">Domingo do mês anterior</text>
+<line x1="294.0" y1="283.3" x2="294.0" y2="327.3" stroke="#33332f" stroke-width="1"/>
+<rect x="294.0" y="289.3" width="166.9" height="32.0" rx="4" fill="#8a8984"/>
+<text x="472.9" y="312.3" font-size="18" font-weight="600" fill="#f0efec" text-anchor="start">99 leads</text>
+<text x="44.0" y="358.3" font-size="18" font-weight="400" fill="#c3c2b7" text-anchor="start">Terça atual</text>
+<line x1="294.0" y1="329.3" x2="294.0" y2="373.3" stroke="#33332f" stroke-width="1"/>
+<rect x="294.0" y="335.3" width="438.3" height="32.0" rx="4" fill="#199e70"/>
+<text x="744.3" y="358.3" font-size="18" font-weight="600" fill="#f0efec" text-anchor="start">260 leads</text>
+<text x="44.0" y="417.3" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Comparação pelo dia da semana</text>
+<text x="956.0" y="417.3" font-size="30" font-weight="700" fill="#f0efec" text-anchor="end">−2%</text>
+<text x="44.0" y="462.3" font-size="18" font-weight="400" fill="#c3c2b7" text-anchor="start">Terça do mês anterior</text>
+<line x1="294.0" y1="433.3" x2="294.0" y2="477.3" stroke="#33332f" stroke-width="1"/>
+<rect x="294.0" y="439.3" width="446.7" height="32.0" rx="4" fill="#8a8984"/>
+<text x="752.7" y="462.3" font-size="18" font-weight="600" fill="#f0efec" text-anchor="start">265 leads</text>
+<text x="44.0" y="508.3" font-size="18" font-weight="400" fill="#c3c2b7" text-anchor="start">Terça atual</text>
+<line x1="294.0" y1="479.3" x2="294.0" y2="523.3" stroke="#33332f" stroke-width="1"/>
+<rect x="294.0" y="485.3" width="438.3" height="32.0" rx="4" fill="#199e70"/>
+<text x="744.3" y="508.3" font-size="18" font-weight="600" fill="#f0efec" text-anchor="start">260 leads</text>
+<text x="44.0" y="561.3" font-size="15" font-weight="400" fill="#a3a29a" text-anchor="start">Números arredondados de um caso real anonimizado. Leia em casos/05-virada-que-nao-existia.md</text>
+</svg>

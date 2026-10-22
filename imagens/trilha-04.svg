@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1285" width="1000" height="1285" role="img" aria-label="Trilha 04, GEO e busca generativa. Visão geral dos módulos." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Trilha 04, GEO e busca generativa. Visão geral dos módulos.</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b6a66"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#fcfcfb"/>
+<rect x="44.0" y="44.0" width="96.0" height="96.0" rx="14" fill="#1c5cab"/>
+<text x="92.0" y="108.0" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">04</text>
+<text x="168.0" y="66.0" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">TRILHA 04 · BUSCA</text>
+<text x="168.0" y="110.0" font-size="40" font-weight="700" fill="#0b0b0b" text-anchor="start">GEO e busca generativa</text>
+<text x="168.0" y="140.0" font-size="18" font-weight="400" fill="#52514e" text-anchor="start">7 módulos · 30 h</text>
+<text x="44.0" y="184.0" font-size="21" font-weight="400" fill="#0b0b0b" text-anchor="start">&lt;!-- infografico:trilha-04 --&gt; &lt;picture&gt; &lt;source media=&quot;(prefers-color-scheme:</text>
+<text x="44.0" y="212.3" font-size="21" font-weight="400" fill="#0b0b0b" text-anchor="start">dark)&quot; srcset=&quot;../../imagens/trilha-04-escuro.svg&quot;&gt; &lt;img</text>
+<text x="44.0" y="240.7" font-size="21" font-weight="400" fill="#0b0b0b" text-anchor="start">src=&quot;../../imagens/trilha-04.svg&quot; alt=&quot;Visão geral da trilha 04&quot; width=&quot;100%&quot;&gt;</text>
+<text x="44.0" y="269.1" font-size="21" font-weight="400" fill="#0b0b0b" text-anchor="start">&lt;/picture&gt; &lt;!-- /infografico --&gt;.</text>
+<rect x="44.0" y="313.4" width="444.0" height="192.0" rx="12" fill="#f3f2ef"/>
+<circle cx="84.0" cy="353.4" r="20" fill="#1c5cab"/>
+<text x="84.0" y="360.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="120.0" y="359.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">Como buscadores com IA</text>
+<text x="120.0" y="387.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">recuperam e citam</text>
+<text x="120.0" y="419.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Recuperação, ranqueamento de trechos e</text>
+<text x="120.0" y="441.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">geração</text>
+<text x="120.0" y="463.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Query fan-out</text>
+<text x="120.0" y="485.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Grounding</text>
+<rect x="512.0" y="313.4" width="444.0" height="192.0" rx="12" fill="#f3f2ef"/>
+<circle cx="552.0" cy="353.4" r="20" fill="#1c5cab"/>
+<text x="552.0" y="360.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="588.0" y="359.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">AI Overviews e AI Mode do</text>
+<text x="588.0" y="387.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">Google</text>
+<text x="588.0" y="419.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Quando o AI Overview aparece</text>
+<text x="588.0" y="441.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">AI Mode como experiência separada</text>
+<text x="588.0" y="463.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Controles nosnippet, data-nosnippet e</text>
+<text x="588.0" y="485.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">max-snippet</text>
+<rect x="44.0" y="525.4" width="444.0" height="220.0" rx="12" fill="#f3f2ef"/>
+<circle cx="84.0" cy="565.4" r="20" fill="#1c5cab"/>
+<text x="84.0" y="572.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="120.0" y="571.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">ChatGPT, Perplexity,</text>
+<text x="120.0" y="599.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">Copilot e Gemini como</text>
+<text x="120.0" y="627.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">canais de busca</text>
+<text x="120.0" y="659.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">GPTBot, OAI-SearchBot e ChatGPT-User</text>
+<text x="120.0" y="681.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">ClaudeBot, Claude-SearchBot e</text>
+<text x="120.0" y="703.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Claude-User</text>
+<text x="120.0" y="725.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">PerplexityBot e Perplexity-User</text>
+<rect x="512.0" y="525.4" width="444.0" height="220.0" rx="12" fill="#f3f2ef"/>
+<circle cx="552.0" cy="565.4" r="20" fill="#1c5cab"/>
+<text x="552.0" y="572.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="588.0" y="571.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">Conteúdo citável, entidades</text>
+<text x="588.0" y="599.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">e marca</text>
+<text x="588.0" y="631.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Trechos autossuficientes</text>
+<text x="588.0" y="653.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Definição direta logo no começo</text>
+<text x="588.0" y="675.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Dados, números e datas</text>
+<rect x="44.0" y="765.4" width="444.0" height="192.0" rx="12" fill="#f3f2ef"/>
+<circle cx="84.0" cy="805.4" r="20" fill="#1c5cab"/>
+<text x="84.0" y="812.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="120.0" y="811.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">llms.txt e controle de</text>
+<text x="120.0" y="839.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">acesso de robôs de IA</text>
+<text x="120.0" y="871.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Especificação do llms.txt e</text>
+<text x="120.0" y="893.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">llms-full.txt</text>
+<text x="120.0" y="915.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Diferença entre llms.txt e robots.txt</text>
+<text x="120.0" y="937.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Regras por robô no robots.txt</text>
+<rect x="512.0" y="765.4" width="444.0" height="192.0" rx="12" fill="#f3f2ef"/>
+<circle cx="552.0" cy="805.4" r="20" fill="#1c5cab"/>
+<text x="552.0" y="812.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="588.0" y="811.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">Medir visibilidade em IA</text>
+<text x="588.0" y="843.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Relatório de IA generativa do Search</text>
+<text x="588.0" y="865.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Console</text>
+<text x="588.0" y="887.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Tráfego de referência de IAs no GA4</text>
+<text x="588.0" y="909.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Logs de robôs de busca de IA</text>
+<rect x="44.0" y="977.4" width="444.0" height="236.0" rx="12" fill="#f3f2ef"/>
+<circle cx="84.0" cy="1017.4" r="20" fill="#1c5cab"/>
+<text x="84.0" y="1024.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<text x="120.0" y="1023.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">Pesquisa acadêmica sobre</text>
+<text x="120.0" y="1051.4" font-size="21" font-weight="700" fill="#0b0b0b" text-anchor="start">GEO</text>
+<text x="120.0" y="1083.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">O artigo GEO de Aggarwal e colegas e o</text>
+<text x="120.0" y="1105.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">benchmark GEO-bench</text>
+<text x="120.0" y="1127.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Métricas de visibilidade em resposta</text>
+<text x="120.0" y="1149.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">gerada</text>
+<text x="120.0" y="1171.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">Trabalhos seguintes sobre viés de fonte</text>
+<text x="120.0" y="1193.4" font-size="16" font-weight="400" fill="#52514e" text-anchor="start">e citação em LLMs</text>
+<text x="44.0" y="1255.4" font-size="15" font-weight="400" fill="#6b6a66" text-anchor="start">trilha-seo-dados-ia · roteiro, aulas, vídeos, leituras e exercícios</text>
+</svg>

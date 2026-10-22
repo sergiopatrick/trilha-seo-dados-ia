@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 438" width="1000" height="438" role="img" aria-label="Arquitetura do projeto 02" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Arquitetura do projeto 02</title>
+<defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b6a66"/></marker></defs>
+<rect width="100%" height="100%" rx="16" fill="#fcfcfb"/>
+<text x="44.0" y="60.0" font-size="15" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.5">PROJETO 2 · TRILHAS 04, 06 E 07</text>
+<text x="44.0" y="100.0" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="start">Monitor de visibilidade em IA</text>
+<text x="44.0" y="166.0" font-size="14" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.2">ENTRADA</text>
+<rect x="44.0" y="184.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#2a78d6" stroke-width="1"/>
+<text x="143.0" y="212.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">30 a 50 prompts</text>
+<text x="143.0" y="232.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">fixos</text>
+<rect x="44.0" y="262.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#2a78d6" stroke-width="1"/>
+<text x="143.0" y="300.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">Marcas e domínios</text>
+<path d="M 246.0 255.0 L 278.0 255.0" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<text x="282.0" y="166.0" font-size="14" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.2">COLETA</text>
+<rect x="282.0" y="184.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#6250d6" stroke-width="1"/>
+<text x="381.0" y="212.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">2 ou mais IAs com</text>
+<text x="381.0" y="232.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">busca</text>
+<rect x="282.0" y="262.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#6250d6" stroke-width="1"/>
+<text x="381.0" y="290.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">3 execuções por</text>
+<text x="381.0" y="310.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">prompt</text>
+<path d="M 484.0 255.0 L 516.0 255.0" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<text x="520.0" y="166.0" font-size="14" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.2">EXTRAÇÃO</text>
+<rect x="520.0" y="184.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#6250d6" stroke-width="1"/>
+<text x="619.0" y="222.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">Domínios citados</text>
+<rect x="520.0" y="262.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#6250d6" stroke-width="1"/>
+<text x="619.0" y="300.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">Menções de marca</text>
+<path d="M 722.0 255.0 L 754.0 255.0" fill="none" stroke="#6b6a66" stroke-width="2" marker-end="url(#seta)"/>
+<text x="758.0" y="166.0" font-size="14" font-weight="600" fill="#52514e" text-anchor="start" letter-spacing="1.2">ANÁLISE</text>
+<rect x="758.0" y="184.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#1baf7a" stroke-width="1"/>
+<text x="857.0" y="222.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">DuckDB por semana</text>
+<rect x="758.0" y="262.0" width="198.0" height="64.0" rx="10" fill="#f3f2ef" stroke="#1baf7a" stroke-width="1"/>
+<text x="857.0" y="290.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">Painel com faixa</text>
+<text x="857.0" y="310.0" font-size="16" font-weight="600" fill="#0b0b0b" text-anchor="middle">de variação</text>
+<text x="44.0" y="362.0" font-size="17" font-weight="400" fill="#52514e" text-anchor="start">Cruza citações com robôs de IA no log, referência de IAs no GA4 e o relatório de IA generativa do</text>
+<text x="44.0" y="384.9" font-size="17" font-weight="400" fill="#52514e" text-anchor="start">Search Console.</text>
+</svg>

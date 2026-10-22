@@ -2,6 +2,13 @@
 
 **Setor.** Entretenimento. **Trilhas.** 02 SEO técnico, 08 Ofício do consultor.
 
+<!-- infografico:caso-04 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-04-escuro.svg">
+  <img src="../imagens/caso-04.svg" alt="Gráfico do caso 04" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 Auditoria de SEO entregue como backlog de 32 itens. Na revisão, surgiu a dúvida de que alguns itens não batiam com a realidade.
 

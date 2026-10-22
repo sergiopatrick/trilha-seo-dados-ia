@@ -1,5 +1,12 @@
 # 01 · SEO estratégico
 
+<!-- infografico:trilha-01 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../../imagens/trilha-01-escuro.svg">
+  <img src="../../imagens/trilha-01.svg" alt="Visão geral da trilha 01" width="100%">
+</picture>
+<!-- /infografico -->
+
 SEO estratégico é decidir o que o site deve ser para quem busca. Quais perguntas responder, em que formato, com que estrutura e com que provas de que você sabe do assunto. A parte técnica (trilha 02) garante que o Google consiga ler. Esta trilha garante que valha a pena ler.
 
 **Pré-requisitos.** Trilha 00, módulos 1 e 3.
@@ -96,6 +103,7 @@ Dois mundos com regras próprias. Local depende do Perfil da Empresa no Google e
 
 ## Material
 
+- [Aulas](aulas.md)
 - [Vídeos](videos.md)
 - [Leituras](leituras.md)
 - [Exercícios e projeto da trilha](exercicios.md)

@@ -2,6 +2,13 @@
 
 **Setor.** Saúde. **Trilhas.** 05 Mensuração, 08 Ofício do consultor.
 
+<!-- infografico:caso-05 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../imagens/caso-05-escuro.svg">
+  <img src="../imagens/caso-05.svg" alt="Gráfico do caso 05" width="100%">
+</picture>
+<!-- /infografico -->
+
 ## Contexto
 Um deck semanal comparava leads diários do mês atual com o mês anterior, dia contra dia.
 
