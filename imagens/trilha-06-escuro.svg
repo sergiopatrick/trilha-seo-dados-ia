@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1275" width="1000" height="1275" role="img" aria-label="Trilha 06, Engenharia de dados. Visão geral dos módulos." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1219" width="1000" height="1219" role="img" aria-label="Trilha 06, Engenharia de dados. Visão geral dos módulos." font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
 <title>Trilha 06, Engenharia de dados. Visão geral dos módulos.</title>
 <defs><marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#a3a29a"/></marker></defs>
 <rect width="100%" height="100%" rx="16" fill="#1a1a19"/>
@@ -7,76 +7,74 @@
 <text x="168.0" y="66.0" font-size="15" font-weight="600" fill="#c3c2b7" text-anchor="start" letter-spacing="1.5">TRILHA 06 · MEDIÇÃO E DADOS</text>
 <text x="168.0" y="110.0" font-size="40" font-weight="700" fill="#f0efec" text-anchor="start">Engenharia de dados</text>
 <text x="168.0" y="140.0" font-size="18" font-weight="400" fill="#c3c2b7" text-anchor="start">9 módulos · 70 h</text>
-<text x="44.0" y="184.0" font-size="21" font-weight="400" fill="#f0efec" text-anchor="start">&lt;!-- infografico:trilha-06 --&gt; &lt;picture&gt; &lt;source media=&quot;(prefers-color-scheme:</text>
-<text x="44.0" y="212.3" font-size="21" font-weight="400" fill="#f0efec" text-anchor="start">dark)&quot; srcset=&quot;../../imagens/trilha-06-escuro.svg&quot;&gt; &lt;img</text>
-<text x="44.0" y="240.7" font-size="21" font-weight="400" fill="#f0efec" text-anchor="start">src=&quot;../../imagens/trilha-06.svg&quot; alt=&quot;Visão geral da trilha 06&quot; width=&quot;100%&quot;&gt;</text>
-<text x="44.0" y="269.1" font-size="21" font-weight="400" fill="#f0efec" text-anchor="start">&lt;/picture&gt; &lt;!-- /infografico --&gt;.</text>
-<rect x="44.0" y="313.4" width="444.0" height="170.0" rx="12" fill="#242423"/>
-<circle cx="84.0" cy="353.4" r="20" fill="#0b6e4c"/>
-<text x="84.0" y="360.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-<text x="120.0" y="359.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Fundamentos e ciclo de vida</text>
-<text x="120.0" y="387.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">dos dados</text>
-<text x="120.0" y="419.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Ciclo de vida da engenharia de dados</text>
-<text x="120.0" y="441.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Batch contra streaming</text>
-<text x="120.0" y="463.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">OLTP contra OLAP</text>
-<rect x="512.0" y="313.4" width="444.0" height="170.0" rx="12" fill="#242423"/>
-<circle cx="552.0" cy="353.4" r="20" fill="#0b6e4c"/>
-<text x="552.0" y="360.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-<text x="588.0" y="359.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">SQL avançado</text>
-<text x="588.0" y="391.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">CTEs</text>
-<text x="588.0" y="413.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">ROW_NUMBER, RANK, LAG, LEAD, SUM OVER</text>
-<text x="588.0" y="435.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Deduplicação</text>
-<rect x="44.0" y="503.4" width="444.0" height="142.0" rx="12" fill="#242423"/>
-<circle cx="84.0" cy="543.4" r="20" fill="#0b6e4c"/>
-<text x="84.0" y="550.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-<text x="120.0" y="549.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Modelagem dimensional</text>
-<text x="120.0" y="581.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Fatos e dimensões</text>
-<text x="120.0" y="603.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Granularidade</text>
-<text x="120.0" y="625.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Esquema estrela</text>
-<rect x="512.0" y="503.4" width="444.0" height="142.0" rx="12" fill="#242423"/>
-<circle cx="552.0" cy="543.4" r="20" fill="#0b6e4c"/>
-<text x="552.0" y="550.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-<text x="588.0" y="549.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Ingestão, ETL e ELT</text>
-<text x="588.0" y="581.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">ETL contra ELT</text>
-<text x="588.0" y="603.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Carga completa e incremental</text>
-<text x="588.0" y="625.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Idempotência</text>
-<rect x="44.0" y="665.4" width="444.0" height="142.0" rx="12" fill="#242423"/>
-<circle cx="84.0" cy="705.4" r="20" fill="#0b6e4c"/>
-<text x="84.0" y="712.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
-<text x="120.0" y="711.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Orquestração</text>
-<text x="120.0" y="743.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Cron</text>
-<text x="120.0" y="765.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">DAGs e dependências</text>
-<text x="120.0" y="787.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Novas tentativas e tempo limite</text>
-<rect x="512.0" y="665.4" width="444.0" height="142.0" rx="12" fill="#242423"/>
-<circle cx="552.0" cy="705.4" r="20" fill="#0b6e4c"/>
-<text x="552.0" y="712.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
-<text x="588.0" y="711.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Data lake e lakehouse</text>
-<text x="588.0" y="743.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Armazenamento de objetos</text>
-<text x="588.0" y="765.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Parquet e compressão colunar</text>
-<text x="588.0" y="787.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Particionamento</text>
-<rect x="44.0" y="827.4" width="444.0" height="192.0" rx="12" fill="#242423"/>
-<circle cx="84.0" cy="867.4" r="20" fill="#0b6e4c"/>
-<text x="84.0" y="874.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
-<text x="120.0" y="873.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Transformação com dbt</text>
-<text x="120.0" y="905.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Modelos, ref e source</text>
-<text x="120.0" y="927.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Materializações</text>
-<text x="120.0" y="949.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Testes genéricos e singulares</text>
-<rect x="512.0" y="827.4" width="444.0" height="192.0" rx="12" fill="#242423"/>
-<circle cx="552.0" cy="867.4" r="20" fill="#0b6e4c"/>
-<text x="552.0" y="874.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
-<text x="588.0" y="873.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Qualidade e observabilidade</text>
-<text x="588.0" y="901.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">de dados</text>
-<text x="588.0" y="933.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Testes de esquema, volume, frescor e</text>
-<text x="588.0" y="955.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">distribuição</text>
-<text x="588.0" y="977.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Contratos de dados</text>
-<text x="588.0" y="999.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Reconciliação com a fonte</text>
-<rect x="44.0" y="1039.4" width="444.0" height="164.0" rx="12" fill="#242423"/>
-<circle cx="84.0" cy="1079.4" r="20" fill="#0b6e4c"/>
-<text x="84.0" y="1086.4" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">9</text>
-<text x="120.0" y="1085.4" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">BI e painéis</text>
-<text x="120.0" y="1117.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Metabase, Looker Studio, Superset</text>
-<text x="120.0" y="1139.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Modelos semânticos e métricas definidas</text>
-<text x="120.0" y="1161.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">uma vez</text>
-<text x="120.0" y="1183.4" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Filtros</text>
-<text x="44.0" y="1245.4" font-size="15" font-weight="400" fill="#a3a29a" text-anchor="start">trilha-seo-dados-ia · roteiro, aulas, vídeos, leituras e exercícios</text>
+<text x="44.0" y="184.0" font-size="21" font-weight="400" fill="#f0efec" text-anchor="start">Engenharia de dados é construir o caminho que leva o dado da fonte até a</text>
+<text x="44.0" y="212.3" font-size="21" font-weight="400" fill="#f0efec" text-anchor="start">decisão, de forma repetível, testada e barata.</text>
+<rect x="44.0" y="256.7" width="444.0" height="170.0" rx="12" fill="#242423"/>
+<circle cx="84.0" cy="296.7" r="20" fill="#0b6e4c"/>
+<text x="84.0" y="303.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="120.0" y="302.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Fundamentos e ciclo de vida</text>
+<text x="120.0" y="330.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">dos dados</text>
+<text x="120.0" y="362.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Ciclo de vida da engenharia de dados</text>
+<text x="120.0" y="384.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Batch contra streaming</text>
+<text x="120.0" y="406.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">OLTP contra OLAP</text>
+<rect x="512.0" y="256.7" width="444.0" height="170.0" rx="12" fill="#242423"/>
+<circle cx="552.0" cy="296.7" r="20" fill="#0b6e4c"/>
+<text x="552.0" y="303.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="588.0" y="302.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">SQL avançado</text>
+<text x="588.0" y="334.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">CTEs</text>
+<text x="588.0" y="356.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">ROW_NUMBER, RANK, LAG, LEAD, SUM OVER</text>
+<text x="588.0" y="378.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Deduplicação</text>
+<rect x="44.0" y="446.7" width="444.0" height="142.0" rx="12" fill="#242423"/>
+<circle cx="84.0" cy="486.7" r="20" fill="#0b6e4c"/>
+<text x="84.0" y="493.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="120.0" y="492.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Modelagem dimensional</text>
+<text x="120.0" y="524.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Fatos e dimensões</text>
+<text x="120.0" y="546.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Granularidade</text>
+<text x="120.0" y="568.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Esquema estrela</text>
+<rect x="512.0" y="446.7" width="444.0" height="142.0" rx="12" fill="#242423"/>
+<circle cx="552.0" cy="486.7" r="20" fill="#0b6e4c"/>
+<text x="552.0" y="493.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="588.0" y="492.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Ingestão, ETL e ELT</text>
+<text x="588.0" y="524.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">ETL contra ELT</text>
+<text x="588.0" y="546.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Carga completa e incremental</text>
+<text x="588.0" y="568.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Idempotência</text>
+<rect x="44.0" y="608.7" width="444.0" height="142.0" rx="12" fill="#242423"/>
+<circle cx="84.0" cy="648.7" r="20" fill="#0b6e4c"/>
+<text x="84.0" y="655.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="120.0" y="654.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Orquestração</text>
+<text x="120.0" y="686.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Cron</text>
+<text x="120.0" y="708.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">DAGs e dependências</text>
+<text x="120.0" y="730.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Novas tentativas e tempo limite</text>
+<rect x="512.0" y="608.7" width="444.0" height="142.0" rx="12" fill="#242423"/>
+<circle cx="552.0" cy="648.7" r="20" fill="#0b6e4c"/>
+<text x="552.0" y="655.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="588.0" y="654.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Data lake e lakehouse</text>
+<text x="588.0" y="686.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Armazenamento de objetos</text>
+<text x="588.0" y="708.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Parquet e compressão colunar</text>
+<text x="588.0" y="730.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Particionamento</text>
+<rect x="44.0" y="770.7" width="444.0" height="192.0" rx="12" fill="#242423"/>
+<circle cx="84.0" cy="810.7" r="20" fill="#0b6e4c"/>
+<text x="84.0" y="817.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<text x="120.0" y="816.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Transformação com dbt</text>
+<text x="120.0" y="848.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Modelos, ref e source</text>
+<text x="120.0" y="870.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Materializações</text>
+<text x="120.0" y="892.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Testes genéricos e singulares</text>
+<rect x="512.0" y="770.7" width="444.0" height="192.0" rx="12" fill="#242423"/>
+<circle cx="552.0" cy="810.7" r="20" fill="#0b6e4c"/>
+<text x="552.0" y="817.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
+<text x="588.0" y="816.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">Qualidade e observabilidade</text>
+<text x="588.0" y="844.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">de dados</text>
+<text x="588.0" y="876.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Testes de esquema, volume, frescor e</text>
+<text x="588.0" y="898.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">distribuição</text>
+<text x="588.0" y="920.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Contratos de dados</text>
+<text x="588.0" y="942.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Reconciliação com a fonte</text>
+<rect x="44.0" y="982.7" width="444.0" height="164.0" rx="12" fill="#242423"/>
+<circle cx="84.0" cy="1022.7" r="20" fill="#0b6e4c"/>
+<text x="84.0" y="1029.7" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">9</text>
+<text x="120.0" y="1028.7" font-size="21" font-weight="700" fill="#f0efec" text-anchor="start">BI e painéis</text>
+<text x="120.0" y="1060.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Metabase, Looker Studio, Superset</text>
+<text x="120.0" y="1082.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Modelos semânticos e métricas definidas</text>
+<text x="120.0" y="1104.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">uma vez</text>
+<text x="120.0" y="1126.7" font-size="16" font-weight="400" fill="#c3c2b7" text-anchor="start">Filtros</text>
+<text x="44.0" y="1188.7" font-size="15" font-weight="400" fill="#a3a29a" text-anchor="start">trilha-seo-dados-ia · roteiro, aulas, vídeos, leituras e exercícios</text>
 </svg>

@@ -10,6 +10,7 @@ MARGEM = 44
 
 def ler_trilha(pasta):
     texto = (pasta / "README.md").read_text(encoding="utf-8")
+    texto = re.sub(r"<!-- infografico:.*?<!-- /infografico -->\n*", "", texto, flags=re.S)
     numero, nome = re.match(r"# (\d+) · (.+)", texto).groups()
     objetivo = texto.split("\n\n")[1].split(". ")[0] + "."
     carga = re.search(r"\*\*Carga estimada\.\*\* (.+)", texto).group(1).rstrip(".")
